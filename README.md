@@ -1,7 +1,7 @@
 # Coding 101: Quiz
 
 <center>
-<img src="assets/img/04_quizScreenshot.png" alt="quiz-screenshot" style="width:75%"></img>
+<img src="assets/img/04_quizScreenshot.png" alt="quizScreenshot" style="width:75%"></img>
 </center>
 
 ## Table of Contents
