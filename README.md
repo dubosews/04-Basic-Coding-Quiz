@@ -1,5 +1,9 @@
 # Coding 101: Quiz
 
+<center>
+<img src="assets/img/04_quizScreenshot.png" alt="quiz-screenshot" style="width:75%"></img>
+</center>
+
 ## Table of Contents
   1. [Description](#description) 
   2. [Installation](#installation)
@@ -9,6 +13,7 @@
   6. [License](#license)
   7. [Questions](#questions)
   8. [E-mail](#e-mail)
+
 
 ## Description
 This application is a timed code quiz, powered by javascript. It includes multiple choice questions that must be answered correctly within the time alotted. 
